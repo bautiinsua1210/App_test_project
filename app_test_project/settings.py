@@ -55,7 +55,7 @@ ROOT_URLCONF = 'app_test_project.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': ["C:/Users/Bauti/Documents/Python/app_test_project/app_test_project/templates"],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
